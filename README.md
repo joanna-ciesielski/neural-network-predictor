@@ -18,8 +18,9 @@ This repository contains a basic 2-layer Artificial Neural Network (ANN) impleme
    git clone https://github.com/your-username/neural-network-predictor.git
    
 2. Navigate to the repository directory:
-    cd neural-network-predictor
+   cd neural-network-predictor
+
     
 3. Run the Python script:
-    python your-script-name.py
+   python your-script-name.py
 
