@@ -19,8 +19,7 @@ This repository contains a basic 2-layer Artificial Neural Network (ANN) impleme
    
 2. Navigate to the repository directory:
    cd neural-network-predictor
-
     
-3. Run the Python script:
+4. Run the Python script:
    python your-script-name.py
 
